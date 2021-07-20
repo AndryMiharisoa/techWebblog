@@ -1,0 +1,29 @@
+body{
+	background-color: lightblue;
+
+}
+
+#pe{
+ width:400px;
+ height:300px;
+ color:#452ac8;
+ size:30px;
+ margin-left:145px;
+ margin-top:70px;
+  font-size: 20px;
+}
+#img{
+	margin-right:50px;
+}
+  #moi{
+    margin-top:30px;
+
+  }
+
+#fe{
+	background-color:#f1ebeb;
+	width:500px;
+	height:700px;
+	margin-left: 256px;
+	margin-top: 88px;
+}
